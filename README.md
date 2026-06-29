@@ -28,4 +28,5 @@ operational inefficiencies.
 - Monitor shipment performance regularly
 
 ## Dashboard Preview
-![UPS Dashboard](dashboard.png)
+![UPS Dashboard](ups.png)
+![UPS Dashboard Overview](UPS%20IN.png)
